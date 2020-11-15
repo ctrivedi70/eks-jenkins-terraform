@@ -2,7 +2,7 @@
 <br />
 
 ## Prerequisites
-To implement the instructions in this post, you will need the following accounts:
+To implement the instruction in this post, you will need the following accounts:
 
 * An AWS account – [how to create a new AWS account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
 * A Docker hub account – [how to register for docker id](https://success.docker.com/article/how-do-you-register-for-a-docker-id)
